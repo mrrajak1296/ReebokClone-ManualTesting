@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mrrajak1296@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6742d1bd6f511f318314a4f8](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6742d1bd6f511f318314a4f8)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dv3MwIpvlsek-qSZKJv6r7I92Ua_x9TU/view?usp=sharing](https://drive.google.com/file/d/1dv3MwIpvlsek-qSZKJv6r7I92Ua_x9TU/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny 😅**
 
