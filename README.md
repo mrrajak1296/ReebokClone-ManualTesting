@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Anil Rajak</h1>
-<h3 align="center">A passionate Software Develpment Engineer Tester from India</h3>
+<h3 align="center">A passionate Software Development Engineer Tester from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrrajak1296&label=Profile%20views&color=0e75b6&style=flat" alt="mrrajak1296" /> </p>
 
-- 🔭 I’m currently working on [Automation Test Store Website Manual + Automation testing](https://github.com/mrrajak1296/Automation)
+- 🔭 I’m currently working on [Automation Test Store Automate & manual Testing](https://github.com/mrrajak1296/Automation)
 
-- 🌱 I’m currently learning **Software Develpment Engineer Tester (SDET)**
+- 🌱 I’m currently learning **Software Development Engineer Tester (SDET)**
 
-- 🔭 I’m recently working on [Reebok website Manual Testing](https://github.com/mrrajak1296/mrrajak1296)
+- 🔭 I’m recently working on [Reebok website manual testing](https://github.com/mrrajak1296/mrrajak1296)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrrajak1296](https://github.com/mrrajak1296)
-
-- 💬 Ask me about **👋 Hi, I’m anil rajak 💻 Aspiring Software Development Engineer in Test (SDET) 🎓 BE in Electrical Engineering | MBA in HR & Finance 🚀 Skilled in Cypress, Selenium, JavaScript, Java, HTML, CSS, Manual Testing, Automation, and DSA 📚 Currently honing my skills at Masai School 🔍 Passionate about building robust, scalable, and efficient testing solutions to improve software quality. Currently, I’m enhancing my skills at Masai School, focusing on delivering exceptional software quality through rigorous testing practices.**
+- 💬 Ask me about **Hi, I’m anil rajak 💻 Aspiring Software Development Engineer in Test (SDET) 🎓 BE in Electrical Engineering | MBA in HR & Finance 🚀 Skilled in Cypress, Selenium, JavaScript, Java, HTML, CSS, Manual Testing, Automation, and DSA 📚 Currently honing my skills at Masai School 🔍 Passionate about building robust, scalable, and efficient testing solutions to improve software quality. Currently, I’m enhancing my skills at Masai School, focusing on delivering exceptional software quality through rigorous testing practices.**
 
 - 📫 How to reach me **mrrajak1296@gmail.com**
+
+- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6742d1bd6f511f318314a4f8](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6742d1bd6f511f318314a4f8)
 
 - ⚡ Fun fact **I am Funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/anil-rajak-1r296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anil-rajak-1r296" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/www.linkedin.com/in/anil-rajak-1r296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/www.linkedin.com/in/anil-rajak-1r296" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
