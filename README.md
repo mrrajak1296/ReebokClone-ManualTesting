@@ -32,8 +32,3 @@ Testing was done manually to ensure the Reebok website clone functions as intend
 2. Go through the **Test Case** document to see detailed test steps and expected results.
 3. Review the **Bug Report** to find any identified issues.
 4. Use the **Summary Report** to get a quick overview of testing progress and outcomes.
-
-## Contributing
-
-Feel free to report issues or contribute improvements. If you identify any additional bugs or have suggestions, please create a pull request.
-
